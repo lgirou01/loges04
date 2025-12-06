@@ -1,0 +1,10 @@
+set_io clock_in 20
+set_io clock_out 12
+set_io HYSNC 28 
+set_io VSYNC 38 
+set_io RGB[0] 2 
+set_io RGB[1] 46
+set_io RGB[2] 47
+set_io RGB[3] 45
+set_io RGB[4] 48
+set_io RGB[5] 3
